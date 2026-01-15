@@ -1,6 +1,4 @@
 # 💫 About Me:
-👨‍💻 CSE student | 🚀 Full-stack learner (MERN) | 💻 Techno-Optimist | 📚 Learning by building real projects
-
 Hi, I’m Apurv; a Computer Science Engineering student who enjoys turning ideas into working code. I like building practical projects, understanding how things work under the hood, and learning by doing rather than just reading.<br>
 
 Email Me 👉 ✉️ apurvmusandi@gmail.com For Collaboration/Project or Anything Else. 😊😊<br>

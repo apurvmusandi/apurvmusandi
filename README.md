@@ -2,8 +2,8 @@
 Hi, I’m Apurv; a Computer Science Engineering student who enjoys turning ideas into working code. I like building practical projects, understanding how things work under the hood, and learning by doing rather than just reading.<br>
 
 Email Me 👉 ✉️ apurvmusandi@gmail.com For Collaboration/Project or Anything Else. 😊😊<br>
-<br>🔭 Exploring Full-Stack Development (MERN) with hands-on projects.
-💻 Comfortable with JavaScript, React, Python, and core CS concepts, with a strong interest in problem-solving and clean code.
+<br>🔭 Exploring Full-Stack Development (MERN) with hands-on projects.<br>
+💻 Strong interest in problem-solving and helping others.<br>
 📚 Believe in learning by building, experimenting, and improving step by step.<br><br>✨ I believe consistency and curiosity matter more than shortcuts.
 
 

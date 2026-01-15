@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 CSE student | 🚀 Full-stack learner (MERN) | 🧠 Problem-solver | 📚 Learning by building real projects
+👨‍💻 CSE student | 🚀 Full-stack learner (MERN) | 💻 Techno-Optimist | 📚 Learning by building real projects
 
 Hi, I’m Apurv; a Computer Science Engineering student who enjoys turning ideas into working code. I like building practical projects, understanding how things work under the hood, and learning by doing rather than just reading.<br><br>🔭 Currently exploring Full-Stack Development (MERN)<br>💻 Comfortable with JavaScript, React, Python, and core CS concepts<br>🧠 Interested in problem solving, system thinking, and clean code<br>🚀 Enjoy working on projects that improve skills step by step<br>📚 Always learning, experimenting, and improving<br><br>✨ I believe consistency and curiosity matter more than shortcuts.
 
@@ -24,7 +24,7 @@ Hi, I’m Apurv; a Computer Science Engineering student who enjoys turning ideas
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=apurvmusandi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Favourite Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---

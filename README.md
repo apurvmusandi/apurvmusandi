@@ -29,8 +29,10 @@ Email Me 👉 ✉️ apurvmusandi@gmail.com For Collaboration/Project or Anythin
 
 ### ✍️ Favourite Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=apurvmusandi&label=Profile%20views&color=0e75b6&style=flat" alt="apurvmusandi" /> </p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=apurvmusandi&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+

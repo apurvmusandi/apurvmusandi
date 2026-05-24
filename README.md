@@ -65,27 +65,10 @@
 <!-- ========================================== -->
 ### 📈 System Telemetry
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=apurvmusandi&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apurvmusandi&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=apurvmusandi&theme=dark&hide_border=false" alt="GitHub Streak" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=apurvmusandi&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=apurvmusandi&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=apurvmusandi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=apurvmusandi&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 

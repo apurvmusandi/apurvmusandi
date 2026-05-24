@@ -1,13 +1,19 @@
+<!-- ========================================== -->
+<!-- 🚀 DYNAMIC NEON HEADER SYSTEM              -->
+<!-- ========================================== -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00f0ff&height=250&section=header&text=Apurv%20Musandi&fontSize=65&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Executing%20creative_protocols.exe...&descAlignY=55&descAlign=62" alt="Apurv Musandi Header" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=System+Architect+in+Training...;MERN+Stack+Engineer;Transforming+Coffee+into+Code;Building+the+Future,+One+Commit+at+a+Time" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;Full-Stack+MERN+Developer;Problem+Solver+%26+Tech+Enthusiast;Transforming+Coffee+into+Code" alt="Typing SVG" />
   </a>
 </div>
 
+<!-- ========================================== -->
+<!-- 🌐 UNIFIED SOCIALS (CUSTOM NEON UI)        -->
+<!-- ========================================== -->
 <p align="center">
   <a href="https://linkedin.com/in/apurvmusandi"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00f0ff" alt="LinkedIn"></a>
   <a href="https://x.com/apurv_musandi"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=ffffff" alt="X"></a>
@@ -17,15 +23,21 @@
 
 ---
 
+<!-- ========================================== -->
+<!-- 💻 TERMINAL-STYLE ABOUT ME                 -->
+<!-- ========================================== -->
 > **`admin@apurv-system:~$ whoami`**
 > 
 > 👤 **Identity:** Apurv | Computer Science Engineering Student
-> 🚀 **Current Task:** Orchestrating Full-Stack (MERN) ecosystems.
-> 🛠️ **Methodology:** Architecting practical, scalable solutions over theoretical reading.
-> 💡 **Philosophy:** Consistency & Curiosity > Shortcuts.
+> 🚀 **Current Task:** Exploring Full-Stack Development (MERN) with hands-on projects.
+> 🛠️ **Methodology:** Building practical projects and learning by doing rather than just reading.
+> 💡 **Philosophy:** Consistency and curiosity matter more than shortcuts.
 
 ---
 
+<!-- ========================================== -->
+<!-- ⚡ COLLAPSIBLE TECH STACK (UX FOCUSED)      -->
+<!-- ========================================== -->
 <details>
   <summary><b><font size="+1">📂 Initialize Tech_Stack.json (Click to Expand)</font></b></summary>
   <br>
@@ -48,41 +60,51 @@
 
 ---
 
+<!-- ========================================== -->
+<!-- 📊 PERFORMANCE METRICS                     -->
+<!-- ========================================== -->
 ### 📈 System Telemetry
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=apurvmusandi&theme=synthwave&hide_border=true&include_all_commits=true&count_private=false&title_color=00F0FF&icon_color=00F0FF" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apurvmusandi&theme=synthwave&hide_border=true&include_all_commits=true&count_private=false&layout=compact&title_color=00F0FF" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=apurvmusandi&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=apurvmusandi&theme=synthwave&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=00F0FF&fire=00F0FF&currStreakNum=ffffff" width="97%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apurvmusandi&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=apurvmusandi&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=apurvmusandi&theme=dark&hide_border=false" alt="GitHub Streak" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=apurvmusandi&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
 
+<!-- ========================================== -->
+<!-- 🐍 ALGORITHMIC ACTIVITY (SNAKE ANIMATION)  -->
+<!-- ========================================== -->
 ### 🕹️ Contribution Heatmap Execution
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/apurvmusandi/apurvmusandi/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/apurvmusandi/apurvmusandi/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://profile-readme-generator.com/assets/snake.svg" width="100%">
-  </picture>
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
 ---
 
+<!-- ========================================== -->
+<!-- ☕ FOOTER & SUPPORT LAYER                 -->
+<!-- ========================================== -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=synthwave" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
   <br><br>
   <a href="https://buymeacoffee.com/apurvmusandi">
     <img src="https://img.shields.io/badge/Fuel_The_Machine-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
